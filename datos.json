@@ -45,10 +45,10 @@
       "link": "https://portalservicios.bancodeoccidente.net/saw/ess?TENANTID=209824369"
     },
     {
-      "texto": "SharePoint",
+      "texto": "GFT SharePoint",
       "imagen": "imgs/ShareP2.png",
-      "alt": "SharePoint",
-      "link": "https://bancoccidente-my.sharepoint.com/..."
+      "alt": "GFTSharePoint",
+      "link": "https://gft365.sharepoint.com/"
     },
     {
       "texto": "AWS Access Portal (ATHENA)",
