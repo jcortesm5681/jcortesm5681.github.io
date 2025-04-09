@@ -79,7 +79,16 @@
       "imagen": "imgs/jenkins.png",
       "alt": "Jenkins",
       "link": "https://devops.bancodeoccidente.net/jenkins/job/Shared_Services/job/Integration_Services/job/Enterprise_Service_BUS_ACE12/job/Dev/job/Dev_ESB_ACE12_Deploy_Backend/"
+    },
+ {
+      "texto": "Repo",
+      "imagen": "imgs/devops.jpg",
+      "alt": "Jenkins",
+      "link": "https://bancoccidente.sharepoint.com/sites/DevOpsBanco/Wiki%20DevOps/Solicitudes%20a%20DevOps.aspx"
     }
-     
+
+
+
+    
   ]
 }
