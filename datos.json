@@ -1,0 +1,85 @@
+{
+  "filas": 3,
+  "columnas": 7,
+  "contenido": [
+    {
+      "texto": "GitHub: BOCC",
+      "imagen": "imgs/git.png",
+      "alt": "GitHub",
+      "link": "https://github.com/bocc-principal/"
+    },
+    {
+      "texto": "DataPower",
+      "imagen": "imgs/DP2.png",
+      "alt": "DataPower",
+      "link": "https://10.121.64.134:9090/dp/login.xml"
+    },
+    {
+      "texto": "IIB10: atbog110d",
+      "imagen": "imgs/IIB10.png",
+      "alt": "IIB10",
+      "link": "http://atbog110d.bancodeoccidente.net:9090/#"
+    },
+    {
+      "texto": "IIB10: atbog118e",
+      "imagen": "imgs/IIB10.png",
+      "alt": "IIB10",
+      "link": "http://atbog118e.bancodeoccidente.net:9090/"
+    },
+    {
+      "texto": "ACE: atbog163d",
+      "imagen": "imgs/ACE12.png",
+      "alt": "ACE",
+      "link": "http://atbog163d.bancodeoccidente.net:9090/"
+    },
+    {
+      "texto": "ACE: atbog164e",
+      "imagen": "imgs/ACE12.png",
+      "alt": "ACE",
+      "link": "http://atbog164e.bancodeoccidente.net:9090/"
+    },
+    {
+      "texto": "ServicePortal",
+      "imagen": "imgs/servicePortal.png",
+      "alt": "Portal",
+      "link": "https://portalservicios.bancodeoccidente.net/saw/ess?TENANTID=209824369"
+    },
+    {
+      "texto": "SharePoint",
+      "imagen": "imgs/ShareP2.png",
+      "alt": "SharePoint",
+      "link": "https://bancoccidente-my.sharepoint.com/..."
+    },
+    {
+      "texto": "AWS Access Portal (ATHENA)",
+      "imagen": "imgs/AWS3.png",
+      "alt": "AWS",
+      "link": "https://ssoawsbocc.awsapps.com/start/#/"
+    },
+    {
+      "texto": "VPN",
+      "imagen": "imgs/VPN.png",
+      "alt": "VPN",
+      "link": "https://miescritorio.bancodeoccidente.com.co:10443/"
+    },
+    {
+      "texto": "Outlook BOCC",
+      "imagen": "imgs/outlook.png",
+      "alt": "Outlook",
+      "link": "https://outlook.office.com/mail/"
+    },
+    {
+      "texto": "Teams",
+      "imagen": "imgs/teams2.png",
+      "alt": "Teams",
+      "link": "https://teams.microsoft.com/v2/"
+    },
+    {
+      "texto": "Jenkins",
+      "imagen": "imgs/jenkins.png",
+      "alt": "Jenkins",
+      "link": "https://devops.bancodeoccidente.net/jenkins/job/..."
+    }
+     
+  ]
+}
