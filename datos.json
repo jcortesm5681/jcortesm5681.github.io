@@ -78,7 +78,7 @@
       "texto": "Jenkins",
       "imagen": "imgs/jenkins.png",
       "alt": "Jenkins",
-      "link": "https://devops.bancodeoccidente.net/jenkins/job/..."
+      "link": "https://devops.bancodeoccidente.net/jenkins/job/Shared_Services/job/Integration_Services/job/Enterprise_Service_BUS_ACE12/job/Dev/job/Dev_ESB_ACE12_Deploy_Backend/"
     }
      
   ]
