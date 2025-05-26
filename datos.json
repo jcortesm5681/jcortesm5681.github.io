@@ -51,10 +51,10 @@
       "link": "https://gft365.sharepoint.com/"
     },
     {
-      "texto": "AWS Access Portal (ATHENA)",
-      "imagen": "imgs/AWS3.png",
-      "alt": "AWS",
-      "link": "https://ssoawsbocc.awsapps.com/start/#/"
+      "texto": "ACE12 DEV",
+      "imagen": "imgs/ACE12.png",
+      "alt": "DEV",
+      "link": "http://10.121.114.36:9090/"
     },
     {
       "texto": "VPN",
