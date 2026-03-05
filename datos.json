@@ -14,6 +14,12 @@
       "alt": "DataPower",
       "link": "https://10.121.64.134:9090/dp/login.xml"
     },
+     {
+      "texto": " ",
+      "imagen": "imgs/hoja.png",
+      "alt": "",
+      "link": ""
+    },
     {
       "texto": "ACE12 DEV",
       "imagen": "imgs/ACE12.png",
@@ -39,22 +45,17 @@
       "alt": "Portal",
       "link": "https://portalservicios.bancodeoccidente.net/saw/ess?TENANTID=209824369"
     },
-     {
-      "texto": " ",
-      "imagen": "imgs/",
-      "alt": "B",
-      "link": ""
-    },
+    
     {
       "texto": "GFT_SharePoint",
       "imagen": "imgs/ShareP2.png",
       "alt": "GFTSharePoint",
       "link": "https://gft365.sharepoint.com/"
     },
-    {
+     {
       "texto": " ",
-      "imagen": "imgs/",
-      "alt": "B",
+      "imagen": "imgs/hoja.png",
+      "alt": "",
       "link": ""
     },
     {
@@ -93,4 +94,5 @@
     
   ]
 }
+
 
