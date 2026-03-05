@@ -15,17 +15,12 @@
       "link": "https://10.121.64.134:9090/dp/login.xml"
     },
     {
-      "texto": "IIB10: atbog110d",
-      "imagen": "imgs/IIB10.png",
-      "alt": "IIB10",
-      "link": "http://atbog110d.bancodeoccidente.net:9090/#"
+      "texto": "ACE12 DEV",
+      "imagen": "imgs/ACE12.png",
+      "alt": "DEV",
+      "link": "http://10.121.114.36:9090/"
     },
-    {
-      "texto": "IIB10: atbog118e",
-      "imagen": "imgs/IIB10.png",
-      "alt": "IIB10",
-      "link": "http://atbog118e.bancodeoccidente.net:9090/"
-    },
+   
     {
       "texto": "ACE: atbog163d",
       "imagen": "imgs/ACE12.png",
@@ -44,6 +39,12 @@
       "alt": "Portal",
       "link": "https://portalservicios.bancodeoccidente.net/saw/ess?TENANTID=209824369"
     },
+     {
+      "texto": " ",
+      "imagen": "imgs/",
+      "alt": "B",
+      "link": ""
+    },
     {
       "texto": "GFT_SharePoint",
       "imagen": "imgs/ShareP2.png",
@@ -51,10 +52,10 @@
       "link": "https://gft365.sharepoint.com/"
     },
     {
-      "texto": "ACE12 DEV",
-      "imagen": "imgs/ACE12.png",
-      "alt": "DEV",
-      "link": "http://10.121.114.36:9090/"
+      "texto": " ",
+      "imagen": "imgs/",
+      "alt": "B",
+      "link": ""
     },
     {
       "texto": "VPN",
@@ -92,3 +93,4 @@
     
   ]
 }
+
